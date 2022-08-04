@@ -3,7 +3,6 @@ parsedatetime
 arrow
 pytz
 tzlocal
-sh
 pathlib; python_version < "3.4"
 tabulate
 requests
