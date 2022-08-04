@@ -81,8 +81,6 @@ with open(thelibFolder + '/README.rst', "r") as fh:
 # else:
 #     print("README.md not found.")
 
-assert version is not None
-
 # The whole setup:
 setup(
 
